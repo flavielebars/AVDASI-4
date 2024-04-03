@@ -10,7 +10,7 @@ To model the power production on ANSYS STK the following steps have been followe
   2. Export as an STD file
   3. Open in Blender to adjust the orientation of the satellite
   4. Export as a .dae file
-  5. Open in Visual Basic Studio and modify the code to ensure ANSYS STK can recognise the solar cells and code the articulations of the solar panels
+  5. Open in Visual Studio and modify the code to ensure ANSYS STK can recognise the solar cells and code the articulations of the solar panels
   6. Upload the .dae file to ANSYS STK
 
 
